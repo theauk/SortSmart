@@ -15,14 +15,14 @@
 
 .square {
     width: 100%;
-    height: 15em;
+    height: 9.5em;
     background-color: rgba(143, 223, 43, 0.7);
     border-bottom-left-radius: 50%;
     border-bottom-right-radius: 50%;
 }
 
 .name {
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
     line-height: 37px;
     letter-spacing: -0.333333px;
@@ -31,15 +31,15 @@
 .logo-text {
     height: 2em;
     position: fixed;
-    margin-top: 7%;
+    margin-top: 1em;
     width: 100%;
 }
 
 .county-box {
     margin: 4% 15% 0 15%;
-    padding: 5px 10px 5px 10px;
+    padding: 3px 10px 3px 10px;
     display: flex;
-    font-size: 1.3em;
+    font-size: 1em;
     background: #88E21A;
     border: 1px solid rgba(0, 0, 0, 0.37);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -67,7 +67,7 @@
 .account, .notifications, .support, .privacy-policy, .terms-of-service, .log-out {
     display: flex;
     border-bottom: 1px solid #C4C4C4;
-    padding: 5% 0 5%;
+    padding: 3.5% 0 3.5%;
 }
 
 .next {
