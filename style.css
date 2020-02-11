@@ -21,6 +21,7 @@
 
 .logo-img {
     height: 23vh;
+    position: fixed;
 }
 
 .logo {
