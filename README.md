@@ -8,4 +8,4 @@ The application is at the prototyping stage and currently has the main user func
 - CSS
 
 #### Website link:
-https://sort-smart.netlify.com/
+https://sort-smart.netlify.app/
